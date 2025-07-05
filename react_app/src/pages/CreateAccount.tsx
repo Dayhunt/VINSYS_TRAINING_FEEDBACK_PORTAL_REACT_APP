@@ -264,7 +264,7 @@ const CreateAccount = () => {
             <p className="text-slate-600">
               Already have an account?{' '}
               <Link to="/learner-login" className="text-purple-600 hover:text-purple-700 font-medium">
-                Sign in here
+                Sig in here
               </Link>
             </p>
           </div>
