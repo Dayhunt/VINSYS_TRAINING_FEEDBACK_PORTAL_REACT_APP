@@ -44,8 +44,6 @@ jobs:
       - name: Setup Terraform
         uses: hashicorp/setup-terraform@v2
 
-      - name: Check if secrets are injected (debug)
-        run: echo "Key is set: ${{ secrets.AWS_ACCESS_KEY_ID != '' }}"
 
 
       - name: Configure AWS credentials
