@@ -98,7 +98,7 @@ const CreateAccount = () => {
             <UserPlus className="h-8 w-8 text-purple-600" />
           </div>
           <h2 className="text-3xl font-bold text-slate-800 mb-2">Create Account</h2>
-          <p className="text-slate-600">Join and start your learning journey</p>
+          <p className="text-slate-600">Joi and start your learning journey</p>
         </div>
 
         <div className="bg-white rounded-2xl shadow-xl p-8 border border-slate-100">
