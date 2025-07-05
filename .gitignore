@@ -1,0 +1,11 @@
+# Node modules
+react_app/node_modules
+# React build output
+react_app/build
+# Terraform files
+terraform_static_webhosting/.terraform
+terraform_static_webhosting/terraform.tfstate
+terraform_static_webhosting/terraform.tfstate.backup
+terraform_static_webhosting/.terraform.lock.hcl
+# Logs
+*.log
